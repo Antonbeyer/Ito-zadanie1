@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\bin\Debug\net6.0\Ex0022.exe
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\bin\Debug\net6.0\Ex0022.deps.json
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\bin\Debug\net6.0\Ex0022.runtimeconfig.json
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\bin\Debug\net6.0\Ex0022.dll
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\bin\Debug\net6.0\Ex0022.pdb
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.AssemblyInfo.cs
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.dll
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\refint\Ex0022.dll
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.pdb
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\Ex0022.genruntimeconfig.cache
+C:\Users\anton\Desktop\Git\итог задание\Ex001\Ex001\Ex0022\obj\Debug\net6.0\ref\Ex0022.dll
